@@ -6,7 +6,7 @@
 	<repo>https://github.com/h-w-f/blog</repo>
 	<dependencies>
 		<view>
-			<name>Blog</name>
+			<name>Default</name>
 			<repo>https://github.com/h-w-f/blog-default</repo>
 			<is_default>true</is_default>
 		</view>
