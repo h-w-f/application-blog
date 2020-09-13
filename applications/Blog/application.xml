@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+	<name>Blog</name>
+	<description>Blog Application</description>
+	<version>0.0.1</version>
+	<repo>https://github.com/h-w-f/blog</repo>
+	<dependencies>
+		<view>
+			<name>Blog</name>
+			<repo>https://github.com/h-w-f/blog-default</repo>
+			<is_default>true</is_default>
+		</view>
+		<component>
+			<name>Hello</name>
+			<repo>https://github.com/h-w-f/all-hello</repo>
+			<is_default>true</is_default>
+		</component>
+	</dependencies>
+	<is_default>true</is_default>
+</application>
