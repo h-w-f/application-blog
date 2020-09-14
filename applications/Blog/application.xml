@@ -11,8 +11,8 @@
 			<is_default>true</is_default>
 		</view>
 		<component>
-			<name>Hello</name>
-			<repo>https://github.com/h-w-f/all-hello</repo>
+			<name>Hw</name>
+			<repo>https://github.com/h-w-f/all-hw</repo>
 			<is_default>true</is_default>
 		</component>
 	</dependencies>
