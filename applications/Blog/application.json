@@ -6,30 +6,28 @@
 	"repo"			: "https://github.com/h-w-f/application-blog",
 	"dependencies"	: {
 		"core"			: {
-			"Core" : {
-				"name"		: "Core",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/core"
-			}
+			"name"		: "Core",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/core"
 		},
-		"components"	: {
-			"Hw" : {
-				"name"		: "Hw",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/component-blog-hw"
-			}
-		},
-		"packages"		: {
-		},
-		"middlewares"		: {
-		},
-		"views"			: {
-			"Default" : {
-				"name"		: "Default",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/view-blog-default"
-			}
-		}
+		"components"	:
+		[{
+			"name"		: "Hw",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/component-blog-hw"
+		}],
+		"packages"		:
+		[{
+		}],
+		"middlewares"		:
+		[{
+		}],
+		"views"			:
+		[{
+			"name"		: "Default",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/view-blog-default"
+		}]
 	},
 	"settings"		: {
 		"view" 			: "Default",
